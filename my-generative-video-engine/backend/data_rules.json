@@ -1,0 +1,8 @@
+{
+    "canvas_width": 360,
+    "canvas_height": 640,
+    "sky_color": [10, 10, 25],
+    "building_colors": [[30, 30, 45], [50, 50, 70]],
+    "cabbage_rgb_base": [40, 200, 60],
+    "base_frequencies": [220.0, 440.0, 523.25, 880.0]
+}
